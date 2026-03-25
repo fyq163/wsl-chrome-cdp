@@ -2,7 +2,6 @@
 name: wsl-chrome-cdp
 description: WSL2 访问 Windows Chrome 浏览器.解决 WSL2 环境中无法访问 Windows Chrome 浏览器的问题，实现 OpenClaw browser 工具对 Windows Chrome 的远程控制。
 ---
-
 # wsl-chrome-cdp - WSL2 访问 Windows Chrome 浏览器
 
 **版本：** 1.0.0  
